@@ -1,0 +1,5 @@
+def sumList():
+    num=[1,2,3,4]
+    print( sum(num))
+
+sumList()
